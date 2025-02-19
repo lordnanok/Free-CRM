@@ -68,7 +68,7 @@ Gain quick insights with **widgets and charts** for:
 - Manage **Sales Orders & Purchases** with tracking & reporting  
 
 🎯 **Challenge Yourself!**  
-Experience the blazing speed and efficiency of **.NET 9**, the latest breakthrough in performance from Microsoft. Explore our **live online demo** today and see firsthand how WHMS can revolutionize your inventory management operations.  
+Experience the blazing speed and efficiency of **.NET 9**, the latest breakthrough in performance from Microsoft. Explore our **live online demo** today and see firsthand how Free CRM can revolutionize your customer relationship management operations.  
 
 
 ---
@@ -76,7 +76,7 @@ Experience the blazing speed and efficiency of **.NET 9**, the latest breakthrou
 
 Free CRM is built using a **Monolithic Clean Architecture** approach, ensuring a structured and simplified development process. By keeping all components within a single codebase, dependency management is streamlined, eliminating the risk of a **dependency nightmare**. This approach consolidates all dependencies in one place, ensuring compatibility and coherence across the entire system.  
 
-Additionally, it simplifies **deployment**, as all code resides in a single repository with a well-optimized pipeline, reducing complexity. The **cohesive project structure** provides a clear and consistent source code pattern, making it easier for developers to understand and maintain the system. With the combination of Clean Architecture, CQRS, and MediatR, WHMS delivers a **scalable, maintainable, and enterprise-ready solution**.
+Additionally, it simplifies **deployment**, as all code resides in a single repository with a well-optimized pipeline, reducing complexity. The **cohesive project structure** provides a clear and consistent source code pattern, making it easier for developers to understand and maintain the system. With the combination of Clean Architecture, CQRS, and MediatR, Free CRM delivers a **scalable, maintainable, and enterprise-ready solution**.
 
 ---
 # Technical Features

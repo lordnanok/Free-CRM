@@ -71,14 +71,12 @@ Gain quick insights with **widgets and charts** for:
 Experience the blazing speed and efficiency of **.NET 9**, the latest breakthrough in performance from Microsoft. Explore our **live online demo** today and see firsthand how Free CRM can revolutionize your customer relationship management operations.  
 
 
----
-## Monolithic Clean Architecture  
+# Monolithic Clean Architecture  
 
 Free CRM is built using a **Monolithic Clean Architecture** approach, ensuring a structured and simplified development process. By keeping all components within a single codebase, dependency management is streamlined, eliminating the risk of a **dependency nightmare**. This approach consolidates all dependencies in one place, ensuring compatibility and coherence across the entire system.  
 
 Additionally, it simplifies **deployment**, as all code resides in a single repository with a well-optimized pipeline, reducing complexity. The **cohesive project structure** provides a clear and consistent source code pattern, making it easier for developers to understand and maintain the system. With the combination of Clean Architecture, CQRS, and MediatR, Free CRM delivers a **scalable, maintainable, and enterprise-ready solution**.
 
----
 # Technical Features
 - **ASP.NET Core 9.0 Headless API** (Back End)
   - Clean Architecture
@@ -97,7 +95,6 @@ Additionally, it simplifies **deployment**, as all code resides in a single repo
   - **Easy-to-customize** responsive UI powered by the AdminLTE template  
 
 
----
 
 # Run The Project: Visual Studio  
 
@@ -115,7 +112,6 @@ Getting started is **easy**! Thanks to **Monolithic Clean Architecture**, everyt
 
 
 
----
 
 # Run The Project: IIS Web Server  
 
@@ -134,7 +130,6 @@ For deployment to IIS:
 > For detailed instructions, refer to [Microsoft's official IIS deployment documentation](https://learn.microsoft.com/en-us/aspnet/core/tutorials/publish-to-iis).  
 
 
----
 
 # Live Demo Link
 - **URL**: [https://free-crm.csharpasp.net/](https://free-crm.csharpasp.net/)
@@ -142,9 +137,8 @@ For deployment to IIS:
 - ✅ **Password**: 123456  
 
 
----
 
-## Acknowledgments
+# Acknowledgments
 
 This project uses the following open-source and community resources:
 
@@ -153,9 +147,8 @@ This project uses the following open-source and community resources:
 
 We thank these projects for their contributions to the developer community.
 
----
 
-## License
+# License
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License (CC BY 4.0)](http://creativecommons.org/licenses/by/4.0/).  
 To view a copy of this license, visit [http://creativecommons.org/licenses/by/4.0/](http://creativecommons.org/licenses/by/4.0/).
@@ -163,34 +156,21 @@ To view a copy of this license, visit [http://creativecommons.org/licenses/by/4.
 Users are required to retain the footer link in all instances of this software as part of the attribution requirement under CC BY 4.0.
 
 
----
 
 # Starred  
-Love this project? Show your support by giving us a star on GitHub! ⭐  
-Your support helps us continue developing and improving this project to deliver even greater value to the community.  
+If you love this project, please consider supporting us by giving a star on GitHub! ⭐  
+Your support keeps us motivated and helps us continue developing and improving this project to deliver even greater value to the community.  
 
 
----
 # 🌱 Help Us Grow!  
 Please help us grow by sharing it with your friends, family, and colleagues!  
+Every share helps us reach more people, grow the community, and continue improving this open-source project. ❤️  
+ 
 
-Every share helps us reach more people, grow the community, and continue improving this open-source project. ⭐  
-Together, we can build something even greater—thank you for being a part of this journey!  
-
----
 
 # Supporters  
 
-This project is proudly supported by **INDOTALENT**, your trusted partner for professional software solutions.  
-
-Providing a fully functional **ASP.NET Core Full Stack Application** with an enterprise-grade **Headless API**, this solution features a **decoupled business process architecture** that ensures total separation between the back-end API and the front-end UI.  
-
-Built with **Clean Architecture, CQRS, and MediatR**, it delivers unparalleled flexibility and scalability for modern development needs.  
-
-And the price? It's **lower than your employee's T-shirts**, offering incredible value for your investment!  
-Don’t miss this opportunity to supercharge your development with a cutting-edge, production-ready solution! 🚀  
-
-🎉 **Exclusive Offer:** Get an incredible **50% discount** on their products using the code **GITHUB50**.  
+This project is supported by **INDOTALENT**,
 
 🌐 Visit now: [https://store.indotalent.com](https://store.indotalent.com)  
 

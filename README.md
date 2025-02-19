@@ -170,7 +170,7 @@ Every share helps us reach more people, grow the community, and continue improvi
 
 # Supporters  
 
-This project is supported by **INDOTALENT**,
+This project is supported by **INDOTALENT**
 
 🌐 Visit now: [https://store.indotalent.com](https://store.indotalent.com)  
 

